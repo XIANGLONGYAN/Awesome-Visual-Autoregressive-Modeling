@@ -1,1 +1,1 @@
-# Awesome-Visual-Autoregressive-Modeling
+# Awesome Visual Autoregressive Modeling
