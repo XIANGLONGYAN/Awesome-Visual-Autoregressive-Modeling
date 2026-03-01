@@ -10,3 +10,11 @@ This repository provides a curated collection of papers on Visual Autoregressive
     - [2026](#2026)
     - [2025](#2025)
     - [2024](#2024)
+
+## Survey
+
+- [arXiv 2025](https://arxiv.org/abs/2505.05530) Low-bit Model Quantization for Deep Neural Networks: A Survey
+
+## Papers
+
+### 2026
