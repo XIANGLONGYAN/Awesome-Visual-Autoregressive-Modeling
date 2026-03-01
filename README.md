@@ -5,15 +5,10 @@ This repository provides a curated collection of papers on Visual Autoregressive
 ## Table of Contents
 - [Awesome-Visual-Autoregressive-Modeling](#awesome-visual-autoregressive-modeling)
   - [Table of Contents](#table-of-contents)
-  - [Survey](#survey)
   - [Papers](#papers)
     - [2026](#2026)
     - [2025](#2025)
     - [2024](#2024)
-
-## Survey
-
-- [arXiv 2024](https://arxiv.org/abs/2411.05902) Autoregressive Models in Vision: A Survey
 
 ## Papers
 
