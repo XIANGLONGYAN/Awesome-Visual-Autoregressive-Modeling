@@ -13,8 +13,14 @@ This repository provides a curated collection of papers on Visual Autoregressive
 
 ## Survey
 
-- [arXiv 2025](https://arxiv.org/abs/2505.05530) Low-bit Model Quantization for Deep Neural Networks: A Survey
+- [arXiv 2024](https://arxiv.org/abs/2411.05902) Autoregressive Models in Vision: A Survey
 
 ## Papers
 
 ### 2026
+- [ICLR 2026](https://arxiv.org/abs/2506.08908) SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping [[code](https://github.com/fakerone-li/SkipVAR)] ![GitHub Repo stars](https://img.shields.io/github/stars/fakerone-li/SkipVAR)
+
+### 2025
+
+### 2024
+
