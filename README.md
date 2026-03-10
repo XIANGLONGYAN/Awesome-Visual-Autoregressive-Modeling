@@ -25,7 +25,6 @@ A curated collection of papers on **Visual Autoregressive (VAR) modeling**, cove
   - [Image Generation](#image-generation)
   - [Image Restoration & Super-Resolution](#image-restoration--super-resolution)
   - [Efficiency & Acceleration](#efficiency--acceleration)
-  - [Quantization & Compression](#quantization--compression)
   - [Controllable & Guided Generation](#controllable--guided-generation)
   - [Video, 3D & Multi-modal](#video-3d--multi-modal)
   - [Dense Prediction (Depth, Segmentation)](#dense-prediction-depth-segmentation)
@@ -155,6 +154,7 @@ Core VAR-based image generation methods.
 - [VAR-CLIP](https://arxiv.org/abs/2408.01181) arXiv — Text-to-image with CLIP
 - [Designing Scale-Wise Transformers](https://arxiv.org/abs/2412.01819) arXiv — Architecture study
 - [MVP](https://openreview.net/forum?id=ARlWghTilp) arXiv — Multi-scale visual prompts
+- [VAR RL Done Right](https://arxiv.org/abs/2601.02256) arXiv — Reinforcement learning for VAR
 
 ### Image Restoration & Super-Resolution
 
@@ -167,7 +167,7 @@ Core VAR-based image generation methods.
 
 ### Efficiency & Acceleration
 
-Token pruning, caching, early-exit, and sparsity approaches.
+Token pruning, caching, early-exit, sparsity, and quantization approaches.
 
 - [CoDe](https://arxiv.org/abs/2411.17787) CVPR 2025 — Collaborative decoding
 - [HART](https://arxiv.org/abs/2410.10812) ICLR 2025 — Hybrid AR with efficient design
@@ -185,14 +185,9 @@ Token pruning, caching, early-exit, and sparsity approaches.
 - [SparVAR](https://arxiv.org/abs/2602.04361) arXiv — Sparsity for training-free acceleration
 - [TTS-VAR](https://arxiv.org/abs/2507.18537) arXiv — Test-time scaling
 - [Dynamic MoE](https://arxiv.org/abs/2510.08629) arXiv — Mixture-of-experts for VAR
-
-### Quantization & Compression
-
 - [PTQ4ARVG](https://arxiv.org/abs/2409.17020) ICLR 2026 — Post-training quantization
 - [Shift-and-Sum Quantization](https://openreview.net/forum?id=DAZvMAlZRp) ICLR 2026 — Hardware-friendly binarization
-- [EditInfinity](https://arxiv.org/abs/2510.20217) NeurIPS 2025 — Editing with binary-quantized models
 - [LiteVAR](https://arxiv.org/abs/2411.17178) NeurIPS 2025 Workshop — Attention + quantization
-- [AMS-KV](https://arxiv.org/abs/2511.16047) AAAI 2026 — Adaptive KV caching
 
 ### Controllable & Guided Generation
 
@@ -205,6 +200,7 @@ Token pruning, caching, early-exit, and sparsity approaches.
 - [Not All Tokens Equal](https://arxiv.org/abs/2509.23876) arXiv — Improved guidance
 - [VAR-CLIP](https://arxiv.org/abs/2408.01181) arXiv — CLIP-conditioned generation
 - [STAR](https://arxiv.org/abs/2406.10797) arXiv — Text-to-image generation
+- [EditInfinity](https://arxiv.org/abs/2510.20217) NeurIPS 2025 — Instruction-guided editing
 
 ### Video, 3D & Multi-modal
 
@@ -235,7 +231,6 @@ Token pruning, caching, early-exit, and sparsity approaches.
 - [Visual AR Transformers Must Use Memory](https://arxiv.org/abs/2503.14881) arXiv
 - [Scale-Wise VAR is Discrete Diffusion](https://arxiv.org/abs/2509.22636) arXiv — Connection to diffusion
 - [Circuit Complexity Bounds](https://arxiv.org/abs/2501.04299) arXiv — Theoretical complexity analysis
-- [VAR RL Done Right](https://arxiv.org/abs/2601.02256) arXiv — Reinforcement learning for VAR
 
 ---
 
