@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/XIANGLONGYAN/Awesome-Visual-Autoregressive-Modeling?style=social)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Paper Count](https://img.shields.io/badge/papers-60+-blue)
-![Last Updated](https://img.shields.io/badge/last%20updated-2025.03-orange)
+![Last Updated](https://img.shields.io/badge/last%20updated-2026.03-orange)
 
 A curated collection of papers on **Visual Autoregressive (VAR) modeling**, covering the *next-scale prediction* paradigm for autoregressive visual generation. Papers are organized both **by venue/year** and **by research topic**.
 
@@ -32,6 +32,7 @@ A curated collection of papers on **Visual Autoregressive (VAR) modeling**, cove
   - [Safety & Watermarking](#safety--watermarking)
   - [Theory & Analysis](#theory--analysis)
 - [Contributing](#contributing)
+- [Star History](#star-history)
 
 ---
 
@@ -254,6 +255,18 @@ Contributions are welcome! If you know of a paper that should be included:
 `generation` `restoration` `efficiency` `quantization` `controllable` `editing` `video` `3d` `multimodal` `depth` `segmentation` `detection` `safety` `theory` `medical`
 
 If you find a mistake (wrong venue, broken link, duplicate), please open an **Issue**.
+
+---
+
+## Star History
+
+<a href="https://star-history.com/#XIANGLONGYAN/Awesome-Visual-Autoregressive-Modeling&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=XIANGLONGYAN/Awesome-Visual-Autoregressive-Modeling&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=XIANGLONGYAN/Awesome-Visual-Autoregressive-Modeling&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=XIANGLONGYAN/Awesome-Visual-Autoregressive-Modeling&type=Date" />
+  </picture>
+</a>
 
 ---
 
