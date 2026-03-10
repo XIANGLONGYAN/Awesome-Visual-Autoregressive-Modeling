@@ -10,10 +10,18 @@ This repository provides a curated collection of papers on Visual Autoregressive
     - [2025](#2025)
     - [2024](#2024)
     - [arxiv](#arxiv)
+  -[Papers](#papers)
+    - [Conference Papers](#conference-papers)
+        - [2026](#2026)
+        - [2025](#2025)
+        - [2024](#2024)
+    - [arXiv](#arxiv)
 
 ## Papers
 
-### 2026
+### Conference Papers
+
+#### 2026
 - [ICLR 2026](https://arxiv.org/abs/2506.08908) SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping [[code](https://github.com/fakerone-li/SkipVAR)] ![GitHub Repo stars](https://img.shields.io/github/stars/fakerone-li/SkipVAR)
 - [AAAI 2026](https://arxiv.org/abs/2511.16047) AMS-KV: Adaptive KV Caching in Multi-Scale Visual Autoregressive Transformers
 - [ICLR 2026](https://arxiv.org/abs/2505.12742) MVAR: Visual Autoregressive Modeling with Scale and Spatial Markovian Conditioning [[code](https://github.com/LabShuHangGU/MVAR)] ![GitHub Repo stars](https://img.shields.io/github/stars/LabShuHangGU/MVAR)
@@ -29,7 +37,7 @@ This repository provides a curated collection of papers on Visual Autoregressive
 - [ICLR 2026](https://arxiv.org/abs/2510.12060) Your VAR Model is Secretly an Efficient and Explainable Generative Classifier
 - [ICLR 2026](https://openreview.net/forum?id=T2Oihh7zN8) VARestorer: One-Step VAR Distillation for Real-World Image Super-Resolution
 
-### 2025
+#### 2025
 - [CVPR 2025](https://arxiv.org/abs/2412.21063) Navigating Image Restoration with VAR’s Distribution Alignment Prior [[code](https://github.com/siywang541/Varformer)] ![GitHub Repo stars](https://img.shields.io/github/stars/siywang541/Varformer)
 - [CVPR 2025](https://arxiv.org/abs/2411.11361) Scalable Autoregressive Monocular Depth Estimation
 - [CVPR 2025](https://arxiv.org/abs/2412.04431) Infinity ∞: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis [[code](https://github.com/FoundationVision/Infinity)] ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationVision/Infinity)
@@ -55,7 +63,7 @@ This repository provides a curated collection of papers on Visual Autoregressive
 - [NeurIPS 2025 Workshop](https://arxiv.org/abs/2411.17178) LiteVAR: Compressing Visual Autoregressive Modelling with Efficient Attention and Quantization
 - [TII 2025](https://arxiv.org/abs/2412.17263) VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling [[code](https://github.com/caoyunkang/VarAD)] ![GitHub Repo stars](https://img.shields.io/github/stars/caoyunkang/VarAD)
 
-### 2024
+#### 2024
 - [NeurIPS 2024](https://arxiv.org/abs/2404.02905) Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [[code](https://github.com/FoundationVision/VAR)] ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationVision/VAR)
 
 ### arxiv
