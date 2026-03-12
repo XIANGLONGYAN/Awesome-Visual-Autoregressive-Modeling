@@ -65,6 +65,7 @@ A curated collection of papers on **Visual Autoregressive (VAR) modeling**, cove
 | CVPR 2025 | [Scalable Autoregressive Monocular Depth Estimation](https://arxiv.org/abs/2411.11361) `depth` | — |
 | CVPR 2025 | [Infinity ∞: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis](https://arxiv.org/abs/2412.04431) `generation` | [![GitHub stars](https://img.shields.io/github/stars/FoundationVision/Infinity?style=social)](https://github.com/FoundationVision/Infinity) |
 | CVPR 2025 | [Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient (CoDe)](https://arxiv.org/abs/2411.17787) `efficiency` | [![GitHub stars](https://img.shields.io/github/stars/czg1225/CoDe?style=social)](https://github.com/czg1225/CoDe) |
+| CVPR 2025| [HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation](https://arxiv.org/abs/2506.04421) `generation`  `efficiency` | ![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/HMAR)
 | ICLR 2025 | [HART: Efficient Visual Generation with Hybrid Autoregressive Transformer](https://arxiv.org/abs/2410.10812) `generation` `efficiency` | [![GitHub stars](https://img.shields.io/github/stars/mit-han-lab/hart?style=social)](https://github.com/mit-han-lab/hart) |
 | ICML 2025 | [Continuous Visual Autoregressive Generation via Score Maximization (EAR)](https://arxiv.org/abs/2505.07812) `generation` | [![GitHub stars](https://img.shields.io/github/stars/shaochenze/EAR?style=social)](https://github.com/shaochenze/EAR) |
 | ICML 2025 | [Visual Autoregressive Modeling for Image Super-Resolution (VARSR)](https://arxiv.org/abs/2501.18993) `restoration` | [![GitHub stars](https://img.shields.io/github/stars/quyp2000/VARSR?style=social)](https://github.com/quyp2000/VARSR) |
@@ -141,6 +142,7 @@ Core VAR-based image generation methods.
 - [VAR](https://arxiv.org/abs/2404.02905) ⭐ NeurIPS 2024 — Foundational next-scale prediction framework
 - [Infinity ∞](https://arxiv.org/abs/2412.04431) CVPR 2025 — Bitwise AR for high-resolution synthesis
 - [HART](https://arxiv.org/abs/2410.10812) ICLR 2025 — Hybrid AR transformer
+- [HMAR](https://arxiv.org/abs/2506.04421) CVPR 2025 - Efficient Hierarchical Masked Auto-Regressive Image Generation
 - [FlowAR](https://arxiv.org/abs/2412.15205) ICML 2025 — Scale-wise AR meets flow matching
 - [EAR](https://arxiv.org/abs/2505.07812) ICML 2025 — Continuous generation via score maximization
 - [FlexVAR](https://arxiv.org/abs/2502.20313) NeurIPS 2025 — Without residual prediction
@@ -171,6 +173,7 @@ Token pruning, caching, early-exit, sparsity, and quantization approaches.
 
 - [CoDe](https://arxiv.org/abs/2411.17787) CVPR 2025 — Collaborative decoding
 - [HART](https://arxiv.org/abs/2410.10812) ICLR 2025 — Hybrid AR with efficient design
+- [HMAR](https://arxiv.org/abs/2506.04421) CVPR 2025 - Efficient Hierarchical Masked Auto-Regressive Image Generation
 - [FastVAR](https://arxiv.org/abs/2503.23367) ICCV 2025 — Cached token pruning
 - [NAR](https://arxiv.org/abs/2503.10696) ICCV 2025 — Neighboring AR modeling
 - [SparseVAR](https://arxiv.org/abs/2507.20454) ICCV 2025 — Frequency-aware sparse generation
