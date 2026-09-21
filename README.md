@@ -1,3 +1,5 @@
+
+
 # Awesome Visual Autoregressive Modeling
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -109,7 +111,7 @@ A curated collection of papers on **Visual Autoregressive (VAR) modeling**, cove
 | 2510 | [SoftCFG: Uncertainty-guided Stable Guidance for Visual Autoregressive Model](https://arxiv.org/abs/2510.00996) `generation` | — |
 | 2509 | [Scale-Wise VAR is Secretly Discrete Diffusion](https://arxiv.org/abs/2509.22636) `theory` | — |
 | 2509 | [Not All Tokens are Guided Equal: Improving Guidance in Visual Autoregressive Models](https://arxiv.org/abs/2509.23876) `generation` | — |
-| 2509 | [Safe-VAR: Safe Visual Autoregressive Model for Text-to-Image Generative Watermarking](https://arxiv.org/abs/2503.11324) `safety` | — |
+| 2503 | [Safe-VAR: Safe Visual Autoregressive Model for Text-to-Image Generative Watermarking](https://arxiv.org/abs/2503.11324) `safety` | — |
 | 2507 | [TTS-VAR: A Test-Time Scaling Framework for Visual Auto-Regressive Generation](https://arxiv.org/abs/2507.18537) `efficiency` | [![GitHub stars](https://img.shields.io/github/stars/ali-vilab/TTS-VAR?style=social)](https://github.com/ali-vilab/TTS-VAR) |
 | 2503 | [Visual Autoregressive Transformers Must Use Memory](https://arxiv.org/abs/2503.14881) `theory` | — |
 | 2502 | [Generative Autoregressive Transformers for Model-Agnostic Federated MRI Reconstruction](https://arxiv.org/abs/2502.04521) `medical` | — |
