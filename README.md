@@ -43,6 +43,7 @@ A curated collection of papers on **Visual Autoregressive (VAR) modeling**, cove
 
 | Venue | Paper | Code |
 |-------|-------|------|
+| NeurIPS 2026 | [NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis](https://arxiv.org/abs/2610.04722) `3d` | [![GitHub stars](https://img.shields.io/github/stars/corl-team/namvis?style=social)](https://github.com/corl-team/namvis) |
 | ICLR 2026 | [SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping](https://arxiv.org/abs/2506.08908) `efficiency` | [![GitHub stars](https://img.shields.io/github/stars/fakerone-li/SkipVAR?style=social)](https://github.com/fakerone-li/SkipVAR) |
 | ICLR 2026 | [MVAR: Visual Autoregressive Modeling with Scale and Spatial Markovian Conditioning](https://arxiv.org/abs/2505.12742) `generation` | [![GitHub stars](https://img.shields.io/github/stars/LabShuHangGU/MVAR?style=social)](https://github.com/LabShuHangGU/MVAR) |
 | ICLR 2026 | [Visual Autoregressive Modeling for Instruction-Guided Image Editing](https://arxiv.org/abs/2508.15772) `editing` | [![GitHub stars](https://img.shields.io/github/stars/HiDream-ai/VAREdit?style=social)](https://github.com/HiDream-ai/VAREdit) |
@@ -213,6 +214,7 @@ Token pruning, caching, early-exit, sparsity, and quantization approaches.
 - [VARGPT](https://arxiv.org/abs/2501.12327) arXiv — Multimodal understanding + generation
 - [NextFlow](https://arxiv.org/abs/2601.02204) arXiv — Unified sequential multimodal modeling
 - [EEG Decoding](https://openreview.net/forum?id=TKjfzuVLX4) ICLR 2026 — Visual decoding from brain signals
+- [NAMVIS](https://arxiv.org/abs/2610.04722) NeurIPS 2026 — Next-scale AR multi-view synthesis from sparse views
 
 ### Dense Prediction (Depth, Segmentation)
 
